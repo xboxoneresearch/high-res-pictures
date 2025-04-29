@@ -2,4 +2,4 @@
 
 ## CREDITS
 
-**series_x_M1157007-001** by ma1kc0d3r
+**series_x_M1157007-001** by ma1k0d3r
